@@ -36,3 +36,9 @@ One unknown device was detected, which could be a household device such as a TV 
 ## Next Steps
 - Perform deeper scan using nmap -sV
 - Learn more about open ports and services
+
+## Screenshots
+
+![Network Scan](network-scan.png)
+![IP Config](ipconfig.png)
+![Router Scan](router-scan.png)
